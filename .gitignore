@@ -1,0 +1,7 @@
+# Logs do servidor local
+server.log
+*.log
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
